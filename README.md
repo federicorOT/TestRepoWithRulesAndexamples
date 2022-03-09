@@ -1,0 +1,2 @@
+# TestRepoWithRulesAndexamples
+dx
